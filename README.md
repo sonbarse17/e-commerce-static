@@ -423,7 +423,7 @@ nginx-project-1/
 
 1. **Enable GitHub Pages** in repository settings
 2. **Select source branch** (usually `main`)
-3. **Access via**: `https://sonbarse17.github.io/e-commerce-static/`
+3. **Access via**: https://sonbarse17.github.io/e-commerce-static/
 
 ### Method 6: Kubernetes Deployment
 
